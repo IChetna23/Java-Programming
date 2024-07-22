@@ -1,6 +1,5 @@
-package java1.j47;
+package java1;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class linkedlist {
